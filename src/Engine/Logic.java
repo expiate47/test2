@@ -6,7 +6,7 @@ package Engine;
 public class Logic implements Bussable {
 
     private static void priorityOne() {
-        //hello 
+        //hello
     }
 
     private static void priorityTwo() {
