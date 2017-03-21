@@ -10,7 +10,7 @@ public class Logic implements Bussable {
     }
 
     private static void priorityTwo() {
-
+        //there
     }
 
     private static void priorityThree() {
